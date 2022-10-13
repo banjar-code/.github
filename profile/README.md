@@ -2,11 +2,12 @@
 
 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+**Some Of My Work**
+1. <a href='https://www.panduancode.com'>Panduan Code </a> </br>
+2. <a href='https://www.banjarsmartdigital.com'>Banjar Smart Digital </a></br>
+3. <a href='https://www.idebisnis.co.id'>Ide bisnis </a></br>
+4. <a href='https://www.tanamanaquascape.id'>Tanaman Aquascape </a></br>
+5. <a href='https://www.arifnoerwahidin.my.id'>Arif NoerWahidin </a></br>
+6. <a href='https://www.dosenti.com'>DosenTI </a></br>
+etc
 
