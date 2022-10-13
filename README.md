@@ -1,2 +1,2 @@
 # .github
-Hello thanks for everything \^o^/ 
+Hello thanks for everything  \^o^/ 
